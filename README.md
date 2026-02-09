@@ -1,7 +1,7 @@
 
 # Pickleball Waitlist (FIFO Queue Using `heapq`)
 
-A small Python program that models a **pickleball paddle waitlist** using a priority queue. Players are added to a queue and assigned courts in **first-in, first-out (FIFO)** order.
+A small Python program that models a pickleball paddle waitlist using a priority queue. Players are added to a queue and assigned courts in first-in, first-out *(FIFO)* order.
 
 This project is a clean example of how to simulate a queue using `heapq` by pairing each entry with an incrementing counter.
 
